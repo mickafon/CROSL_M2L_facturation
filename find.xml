@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'facturationM2L'" />
-    <option name="defaultScopeName" value="Project 'facturationM2L'" />
-    <option name="SEARCH_SCOPE" value="Project 'facturationM2L'" />
+    <option name="customScope" value="File '/Users/Lulu/IdeaProjects/CROSL_M2L_facturation/src/CROSL_M2L_facturation.sql'" />
+    <option name="defaultScopeName" value="File '/Users/Lulu/IdeaProjects/CROSL_M2L_facturation/src/CROSL_M2L_facturation.sql'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/Lulu/IdeaProjects/CROSL_M2L_facturation/src/CROSL_M2L_facturation.sql'" />
   </component>
 </application>
